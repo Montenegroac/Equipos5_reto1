@@ -132,8 +132,8 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             TextField(
                 controller: textDestino,
-                decoration:
-                    InputDecoration(labelText: "Moneda Origen", hintText: "0")),
+                decoration: InputDecoration(
+                    labelText: "Moneda Destino", hintText: "0")),
             Expanded(
                 child: GridView.builder(
               gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
