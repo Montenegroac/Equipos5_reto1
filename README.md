@@ -14,4 +14,4 @@ En el presente proyecto se presenta una interzas de usuario basada en una aplica
 
 A continación se puede evidenciar el cómo quedó la interfaz.
 
-<video src="VideoDemo.mp4" width="300" height="600" ></video>
+<img src="Demo.gif" width="300" />
