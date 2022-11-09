@@ -1,16 +1,17 @@
 # Reto1
 
-A new Flutter project.
+Equipo 5
+Integrantes:
+Angela Castrillon Soto.
+Andrea Chacon Plazas.
+Jose Guzman Cespedes.
+Harold Feria Murillo.
+Cristian Montenegro Aguirre.
 
-## Getting Started
+En el presente proyecto se presenta una interzas de usuario basada en una aplicación de conversión de monedas. 
 
-This project is a starting point for a Flutter application.
+## Demo
 
-A few resources to get you started if this is your first Flutter project:
+A continación se puede evidenciar el cómo quedó la interfaz.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
